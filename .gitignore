@@ -1,0 +1,22 @@
+# Compiled files
+*.class
+
+# Build folders
+bin/
+classes/
+out/
+target/
+
+# JDK
+jdk-17.0.17+10/
+jdk.zip
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.db
+
+# Logs
+*.log
