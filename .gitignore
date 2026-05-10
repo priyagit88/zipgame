@@ -1,22 +1,26 @@
-# Compiled files
+# Java build files
 *.class
 
 # Build folders
 bin/
 classes/
-out/
 target/
+out/
 
-# JDK
-jdk-17.0.17+10/
-jdk.zip
-
-# IDE
+# IDE files
 .vscode/
 .idea/
+
+# OS files
+.DS_Store
+Thumbs.db
 
 # Database
 *.db
 
 # Logs
 *.log
+
+# JDK
+jdk-*/
+jdk.zip
